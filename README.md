@@ -19,7 +19,7 @@ Inside seeder is included to create
 
 * one user `Test` (`admin@example.com`) with password `admin`, 
 * two roles for both `api` and `web` guards
-* one permission per role to go with it with matching `guard`
+* one permission per role to go with it with matching guard
 * Permissions linked to the roles and both roles given out to the user `Test`
 
 Seeder is *not* safely rerunnable 
